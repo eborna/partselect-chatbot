@@ -10,6 +10,7 @@ This project implements a specialized chat agent for the PartSelect e-commerce w
 - Integration with OpenAI's language models for natural language processing
 - Pinecone vector database for efficient storage and retrieval of product information
 - Web scraping functionality to keep product data up-to-date
+- Suggested questions to keep the user engaged 
 
 ## Setup
 
